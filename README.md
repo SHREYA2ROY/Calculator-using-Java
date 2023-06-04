@@ -30,7 +30,7 @@
     .JTextField()
 	.JFrame() 
 	.JButton()
-	.JPane()
+	.JPanel()
 	
 # Acknowledgements
   This project was created as a part of the "BharatIntern" Summer Virtual Internship task. 
